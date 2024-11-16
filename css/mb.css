@@ -1,0 +1,37 @@
+
+section:first-child:first-letter {
+    color: #903; 
+    font-family: Georgia;
+    font-size: 4em;
+  }
+
+  .glossary {
+    color: green;
+    font-style: italic;
+  }
+
+  .story {
+    padding: 1em;
+    background-color: #DDDDDD;
+    border: 1pt black solid;
+    border-radius: 1em;
+    margin-left: 2em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+
+  .jest {
+    opacity: 0.5;
+    color: green;
+  }
+
+  hr {
+  display:block;
+  border:none;
+  height:20px;
+  background-image:url('../content/images/divider.gif');
+} 
+.subchapter {
+  font-weight: bold;
+  font-size: 1.2em;
+}
